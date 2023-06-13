@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aaronn/static/css/main.721fbc9f.css",
+    "main.js": "/aaronn/static/js/main.08a45e4e.js",
+    "static/media/third-card.png": "/aaronn/static/media/third-card.9aca78ccf8f01a60c560.png",
+    "static/media/first-card.png": "/aaronn/static/media/first-card.745d0f8c5f0e979643fb.png",
+    "static/media/photo.png": "/aaronn/static/media/photo.772baa9713335b89bb26.png",
+    "static/media/second-card.png": "/aaronn/static/media/second-card.7d2aa3f7e788274befc9.png",
+    "static/media/four-card.png": "/aaronn/static/media/four-card.f9037d52dac51a799647.png",
+    "index.html": "/aaronn/index.html",
+    "main.721fbc9f.css.map": "/aaronn/static/css/main.721fbc9f.css.map",
+    "main.08a45e4e.js.map": "/aaronn/static/js/main.08a45e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721fbc9f.css",
+    "static/js/main.08a45e4e.js"
+  ]
+}
