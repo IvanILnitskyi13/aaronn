@@ -1,0 +1,58 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1150px;
+    height: 50px;
+    margin-top: 32px;
+}
+
+.logo {
+    width: 125px;
+    height: 22px;
+}
+
+.components {
+    display: flex;
+    align-items: center;
+    gap: 45px;
+    text-transform: uppercase;
+    list-style: none;
+    color: rgb(255, 255, 255, 0.5);
+}
+
+.component {
+    cursor: pointer;
+    transition: 0.3s;
+    backface-visibility: hidden;
+}
+
+.component:hover {
+    box-shadow: rgba(255, 145, 66, 1) 0px 4px, rgba(255, 145, 66, 0.4) 0px 8px;
+}
+
+.component:active {
+    transform: translateY(2px);
+}
+
+.btn {
+    width: 138px;
+    height: 47px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    background: rgb(3, 3, 4);
+    border-radius: 2000px;
+    border: solid 2px rgba(216, 216, 216, 0.5);
+    transition: 0.5s;
+    backface-visibility: hidden;
+}
+
+.btn:hover {
+    font-size: 15px;
+    border-color: rgb(255, 145, 66);
+    cursor: pointer;
+}
+
+.btn:active {
+    transform: translateY(2px);
+}

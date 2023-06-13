@@ -1,0 +1,39 @@
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 290px;
+}
+
+.title {
+    font-size: 64px;
+    color: rgb(255, 255, 255);
+}
+
+.btn {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    width: 240px;
+    height: 65px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    border-color: rgb(255, 145, 66);
+    border-radius: 100px;
+    background-color: transparent;
+    margin-bottom: 78px;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    background-color: rgb(255, 145, 66);
+    cursor: pointer;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1150px;
+}
